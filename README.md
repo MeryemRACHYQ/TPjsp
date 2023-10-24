@@ -22,7 +22,7 @@ Démarrez votre serveur.
 Accédez à l'application depuis votre navigateur web en utilisant l'URL correspondante (par exemple, http://localhost:8080/RoomMachineManagement). N'oubliez pas d'ajuster l'URL en fonction de votre configuration de serveur.
 Vous pouvez maintenant utiliser l'interface web pour gérer les salles et les machines.
 # Prérequis
-Environnement de Développement Java : Assurez-vous d'avoir Java Development Kit (JDK) installé sur votre machine.
-NetBeans IDE : Vous pouvez utiliser NetBeans IDE pour ouvrir et travailler sur ce projet.
+Environnement de Développement Java : Java Development Kit (JDK) 
+NetBeans IDE 
 Serveur d'Application : Cette application est conçue pour fonctionner sur un serveur compatible avec Java Servlet, tel que Apache Tomcat ou GlassFish.
-Base de Données MySQL : Configurez une base de données MySQL et assurez-vous d'avoir les paramètres de connexion appropriés.
+Base de Données MySQL :  MySQL 
